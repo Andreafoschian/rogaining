@@ -1,5 +1,6 @@
 # rogaining
-Come estrerre da oribos i dati per generare classifiche di scornoscalata per una gara di rogaining
+Come estrerre da oribos i dati per generare classifiche di cornoscalata per una gara di rogaining
+
 Lo script serve per generare la classifica delle cronoscalata per una gara di orienteering / rogaining a sequenza obbligata a coppie.
 Impostare un file di oribos come se fosse una staffetta con i frazionisti che hanno lo stessto minuto di partenza. Partono assieme. 
 Assegnare i pettorali ai concorrenti con il seguente criterio: Pettorale > 999 => "IND" (Individuale).
